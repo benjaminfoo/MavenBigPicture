@@ -19,4 +19,4 @@ The original file was created with the well known mindmapping tool "free mind".
 
 P.S.: The most of the content is copied straight from the internet, but I've referenced those sources as shortcuts within the map. It's a collaboration from sites like Stackoverflow, the Apache Maven wiki and the places google led me into. 
 
-![alt tag](https://github.com/benjaminfoo/MavenBigPicture/blob/master/Maven%20-%20The%20big%20picture.png)
+![alt tag](https://raw.github.com/benjaminfoo/MavenBigPicture/master/Maven%20-%20The%20big%20picture.png)
