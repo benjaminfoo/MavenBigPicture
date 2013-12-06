@@ -1,9 +1,10 @@
-MavenBigPicture
+Maven - The big picture
 ===============
 
 This is an overview of the features that the build management software Apache Maven (3.x) offers. I created this over the last half year in order to fill in those documentation gaps which a lot of my co-workers had to struggle with while getting started with maven.
 
-The map contains the following nodes:
+Overview
+===============
 
 | Node | Description |
 |------|-------------|
